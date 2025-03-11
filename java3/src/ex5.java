@@ -5,9 +5,9 @@ public class ex5 {
     int ddd, telefone;
     public void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        ex5 exemplo = new ex5(); // Cria um objeto da classe
-        exemplo.info(); // Chama o método info para capturar os dados
-        exemplo.exibir(); // Chama o método exibir para mostrar os dados
+        ex5 exemplo = new ex5();
+        exemplo.info(); 
+        exemplo.exibir();
     }
     
     public void info() {
