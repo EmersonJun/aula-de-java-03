@@ -27,7 +27,7 @@ public class ex5 {
 
         
     }
-    public void exibir() {
+    public void exibir() {//informa todas essas merdas de nome, sobrenome e os carai dentro da funcao junto do tipo deles, se nao nao vai funcionar ne caralho
         System.out.println("nome:" +nome);
         System.out.println("sobrenome:" +sobrenome);
         System.out.println("ddd:" +ddd);
